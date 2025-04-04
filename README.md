@@ -147,20 +147,19 @@ Além disso, estou no 5º semestre do curso de Engenharia de Software na UEPG, o
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center">
+
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ErikCostaeSilva&show_icons=true&theme=codeSTACKr&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikCostaeSilva&theme=codeSTACKr&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikCostaeSilva&theme=codeSTACKr&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</div>
